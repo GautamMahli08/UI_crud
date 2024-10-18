@@ -1,0 +1,7 @@
+Before Run Install these package
+npm i express
+npm i mongoose
+npm i bodyParser
+npm i dotenv
+npm i cors
+npm i route
